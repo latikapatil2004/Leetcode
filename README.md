@@ -13,4 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/latikapatil2004/Leetcode/tree/master/0062-unique-paths) |
+## Array
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/latikapatil2004/Leetcode/tree/master/0645-set-mismatch) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/latikapatil2004/Leetcode/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/latikapatil2004/Leetcode/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/latikapatil2004/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
