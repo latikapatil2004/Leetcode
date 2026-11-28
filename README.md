@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/latikapatil2004/Leetcode/tree/master/0062-unique-paths) |
+| [3360-stone-removal-game](https://github.com/latikapatil2004/Leetcode/tree/master/3360-stone-removal-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/latikapatil2004/Leetcode/tree/master/0645-set-mismatch) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/latikapatil2004/Leetcode/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
